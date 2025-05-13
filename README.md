@@ -10,7 +10,6 @@
 
 [RFM Analysis in Action: Step-by-Step Customer Segmentation with Python](https://medium.com/p/f10bb8c25e25)
 
-<a href="https://medium.com/p/a2256b41eb84" style="color: black;">My Article</a>
 
 ## Tools
 
