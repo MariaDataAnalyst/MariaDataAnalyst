@@ -30,8 +30,8 @@ I’m a Data Analyst with over 4 years of experience turning raw data into meani
 
 [![Linkedin](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/name)
 [![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail&logoColor=EA4035)](mailto:name@gmail.com)
-[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)]
-[![X](https://img.shields.io/badge/--090909?style=for-the-badge&logo=x&logoColor=1C9DEB)]
-[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)]
+![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)
+![X](https://img.shields.io/badge/--090909?style=for-the-badge&logo=x&logoColor=1C9DEB)
+![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)
 
 
